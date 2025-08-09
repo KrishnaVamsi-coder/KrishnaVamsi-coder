@@ -10,7 +10,6 @@ I’m a backend developer with a focus on **Java + Spring Boot** and a passion f
 ## 🧠 Learning
 - 📦 **Kubernetes** (hands-on)
 - 🧠 **Machine Learning**
-- 🔍 **E-Commerce Recommendation System** using **Flask + Python**
 
 ## 💡 Beyond NxtWave
 Apart from the NxtWave curriculum, I’ve built multiple **unique personal projects** to explore new ideas and real-world scenarios.
